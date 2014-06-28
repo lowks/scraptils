@@ -13,7 +13,7 @@ setup(
     version = "0.2.2",
     author = "Stefan Marsiske",
     author_email = "s@ctrlc.hu",
-    description = ("Scraping and datamangling Utilities"),
+    description = ("Scraping and data mangling Utilities"),
     license = "AGPLv3+",
     keywords = "scraping data",
     packages = find_packages(),
